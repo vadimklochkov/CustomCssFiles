@@ -1,4 +1,10 @@
 .flex-center{display: flex !important; align-items: center !important; justify-content: center !important;}
+.flex-center-col{display: flex !important; align-items: center !important;}
+.flex-center-row{display: flex !important; justify-content: center !important;}
 .flex-right{display: flex !important; align-items: right !important;justify-content: right !important; flex-direction: row-reverse !important;}
+.flex-right-col{display: flex !important; align-items: right !important;}
+.flex-right-row{display: flex !important; justify-content: right !important; flex-direction: row-reverse !important;}
 .flex-left{display: flex !important; align-items: left !important;justify-content: left !important; flex-direction: row !important;}
+.flex-left-col{display: flex !important; align-items: left !important;}
+.flex-left-row{display: flex !important; justify-content: left !important; flex-direction: row !important;}
 .flex-col{display: flex !important; flex-flow: column wrap !important;}
