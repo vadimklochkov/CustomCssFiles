@@ -8,3 +8,51 @@
 .flex-left-col{display: flex !important; align-items: left !important;}
 .flex-left-row{display: flex !important; justify-content: left !important; flex-direction: row !important;}
 .flex-col{display: flex !important; flex-flow: column wrap !important;}
+@media (min-width:576px){
+    .flex-center-sm{display: flex !important; align-items: center !important; justify-content: center !important;}
+    .flex-center-col-sm{display: flex !important; align-items: center !important;}
+    .flex-center-row-sm{display: flex !important; justify-content: center !important;}
+    .flex-right-sm{display: flex !important; align-items: right !important;justify-content: right !important; flex-direction: row-reverse !important;}
+    .flex-right-col-sm{display: flex !important; align-items: right !important;}
+    .flex-right-row-sm{display: flex !important; justify-content: right !important; flex-direction: row-reverse !important;}
+    .flex-left-sm{display: flex !important; align-items: left !important;justify-content: left !important; flex-direction: row !important;}
+    .flex-left-col-sm{display: flex !important; align-items: left !important;}
+    .flex-left-row-sm{display: flex !important; justify-content: left !important; flex-direction: row !important;}
+    .flex-col-sm{display: flex !important; flex-flow: column wrap !important;}
+}
+@media (min-width: 768px){
+    .flex-center-md{display: flex !important; align-items: center !important; justify-content: center !important;}
+    .flex-center-col-md{display: flex !important; align-items: center !important;}
+    .flex-center-row-md{display: flex !important; justify-content: center !important;}
+    .flex-right-md{display: flex !important; align-items: right !important;justify-content: right !important; flex-direction: row-reverse !important;}
+    .flex-right-col-md{display: flex !important; align-items: right !important;}
+    .flex-right-row-md{display: flex !important; justify-content: right !important; flex-direction: row-reverse !important;}
+    .flex-left-md{display: flex !important; align-items: left !important;justify-content: left !important; flex-direction: row !important;}
+    .flex-left-col-md{display: flex !important; align-items: left !important;}
+    .flex-left-row-md{display: flex !important; justify-content: left !important; flex-direction: row !important;}
+    .flex-col-md{display: flex !important; flex-flow: column wrap !important;}
+}
+@media (min-width: 992px){
+    .flex-center-lg{display: flex !important; align-items: center !important; justify-content: center !important;}
+    .flex-center-col-lg{display: flex !important; align-items: center !important;}
+    .flex-center-row-lg{display: flex !important; justify-content: center !important;}
+    .flex-right-lg{display: flex !important; align-items: right !important;justify-content: right !important; flex-direction: row-reverse !important;}
+    .flex-right-col-lg{display: flex !important; align-items: right !important;}
+    .flex-right-row-lg{display: flex !important; justify-content: right !important; flex-direction: row-reverse !important;}
+    .flex-left-lg{display: flex !important; align-items: left !important;justify-content: left !important; flex-direction: row !important;}
+    .flex-left-col-lg{display: flex !important; align-items: left !important;}
+    .flex-left-row-lg{display: flex !important; justify-content: left !important; flex-direction: row !important;}
+    .flex-col-lg{display: flex !important; flex-flow: column wrap !important;}
+}
+@media (min-width: 1200px){
+    .flex-center-xl{display: flex !important; align-items: center !important; justify-content: center !important;}
+    .flex-center-col-xl{display: flex !important; align-items: center !important;}
+    .flex-center-row-xl{display: flex !important; justify-content: center !important;}
+    .flex-right-xl{display: flex !important; align-items: right !important;justify-content: right !important; flex-direction: row-reverse !important;}
+    .flex-right-col-xl{display: flex !important; align-items: right !important;}
+    .flex-right-row-xl{display: flex !important; justify-content: right !important; flex-direction: row-reverse !important;}
+    .flex-left-xl{display: flex !important; align-items: left !important;justify-content: left !important; flex-direction: row !important;}
+    .flex-left-col-xl{display: flex !important; align-items: left !important;}
+    .flex-left-row-xl{display: flex !important; justify-content: left !important; flex-direction: row !important;}
+    .flex-col-xl{display: flex !important; flex-flow: column wrap !important;}
+}
